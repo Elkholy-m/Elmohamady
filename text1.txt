@@ -1,2 +1,4 @@
 This File Is Not Ignored
 This Is Appended Line
+Hello World
+\n This is Another Appended Line
